@@ -1,0 +1,15 @@
+.wrapper {
+    background-color: white;
+    padding-top: 10px;
+}
+
+.info {
+    display: flex;
+    gap: 20px;
+}
+
+.hr {
+    height: 1px;
+    width: 100%;
+    color: black;
+}
